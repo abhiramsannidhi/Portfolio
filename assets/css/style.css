@@ -278,9 +278,9 @@ span {
 .services {
     background: var(--second-bg-color);
 }
-.heading{
+/* .heading{
 
-}
+} */
 
 .services-container {
     display: grid;
